@@ -1,0 +1,13 @@
+torch
+torchvision
+ftfy
+regex
+tqdm
+scipy
+pandas
+matplotlib
+numpy
+Pillow
+ipykernel
+jupyter
+git+https://github.com/openai/CLIP.git
